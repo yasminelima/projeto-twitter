@@ -1,0 +1,22 @@
+@charset UTF-8;
+
+:root {
+    --cor1: #15202B;
+    --cor2: #F7F9F9;
+    --cor3: #8B98A5;
+}
+
+* {
+    background-color: var(--cor1);
+    color: var(--cor2);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titulo {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.ccor3 {
+    color: var(--cor3);
+}
